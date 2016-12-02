@@ -111,9 +111,9 @@ dbTransaction.oncomplete = function() {
 ```
 
 ### More Tutorials
-[Very simple indexdb example](https://gist.github.com/BigstickCarpet/a0d6389a5d0e3a24814b)
+[Very simple IndexeDB example](https://gist.github.com/BigstickCarpet/a0d6389a5d0e3a24814b)
 
-[Learn indexdb on Tutorialspoint](https://www.tutorialspoint.com/html5/html5_indexeddb.htm)
+[Learn IndexeDB on Tutorialspoint](https://www.tutorialspoint.com/html5/html5_indexeddb.htm)
 
 
 ### Wrapper Libraries
@@ -124,12 +124,15 @@ dbTransaction.oncomplete = function() {
 
 - [dexie](http://dexie.org/)
 
+- [Jquery IndexedDB plugin](https://nparashuram.com/jquery-indexeddb/)
+
+- [Dexie.js](http://dexie.org/)
+
 #### Reference
 
 - [MDN](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Using_IndexedDB)
 
 - [IndexedDB](https://gist.github.com/BigstickCarpet/a0d6389a5d0e3a24814b)
-
 
 
 ##### MIT Licensed
