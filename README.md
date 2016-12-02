@@ -115,6 +115,11 @@ dbTransaction.oncomplete = function() {
 
 [Learn IndexeDB on Tutorialspoint](https://www.tutorialspoint.com/html5/html5_indexeddb.htm)
 
+[Short video tutorial](https://www.youtube.com/watch?v=W9cg2grW82k)
+
+[Medium article - Offline Storage for Progressive Web Apps](https://medium.com/dev-channel/offline-storage-for-progressive-web-apps-70d52695513c#.jx5zj6ewq)
+
+
 
 ### Wrapper Libraries
 
@@ -127,6 +132,9 @@ dbTransaction.oncomplete = function() {
 - [Jquery IndexedDB plugin](https://nparashuram.com/jquery-indexeddb/)
 
 - [Dexie.js](http://dexie.org/)
+
+- [IDBWrapper](https://github.com/jensarps/IDBWrapper)
+
 
 #### Reference
 
